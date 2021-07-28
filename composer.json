@@ -1,0 +1,18 @@
+{
+    "name": "sakrancode/instagram-api",
+    "description": "Instagram API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sakrancode-sod",
+            "email": "lutfi@ppn.co.id"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sakrancode\\InstagramApi\\": "packages/sakrancode/instagram_api/src" 
+        }
+    }
+}
